@@ -1,6 +1,6 @@
 import "./App.css";
-import MainPage from "./components/MainPage/MainPage";
 import "bootstrap/dist/css/bootstrap.min.css";
+import MainPage from "./components/mainPage/mainPage";
 function App() {
   return (
     <>
@@ -8,5 +8,6 @@ function App() {
     </>
   );
 }
+// test
 
 export default App;
